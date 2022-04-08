@@ -19,3 +19,6 @@
 //Cabbage
 ![Cabbage](https://user-images.githubusercontent.com/91477169/162381977-1a8b911e-0bbc-4bde-a1c6-ef4b80474ece.jpg)
 
+//Capsicum
+![Capsicum](https://user-images.githubusercontent.com/91477169/162382124-d63cbcb5-08fe-46f5-8830-aa0e5a62ff3e.jpg)
+
