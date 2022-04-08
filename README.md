@@ -35,6 +35,9 @@
 //Curd
 ![Curd](https://user-images.githubusercontent.com/91477169/162382720-f22711ff-a163-4886-8014-7269690d2702.jpg)
 
+//Eggs
+![Eggs](https://user-images.githubusercontent.com/91477169/162382889-c550f12d-e7d3-4455-9eca-ebb97ca7c270.jpg)
+
 
 
 
