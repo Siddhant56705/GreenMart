@@ -16,3 +16,6 @@
 //Brocolis
 ![Brocolis](https://user-images.githubusercontent.com/91477169/162381533-d5c8ffe4-a116-4e0d-91a8-d83197de4035.jpg)
 
+//Cabbage
+![Cabbage](https://user-images.githubusercontent.com/91477169/162381977-1a8b911e-0bbc-4bde-a1c6-ef4b80474ece.jpg)
+
