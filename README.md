@@ -81,6 +81,9 @@
 //Carrot
 ![carrots-ga6ccce7e7_1920](https://user-images.githubusercontent.com/91477169/162386327-af6ecf59-41ed-4277-9215-1349a7318626.jpg)
 
+//Potatoes
+![potatoes-g1dd6ae6e5_1920](https://user-images.githubusercontent.com/91477169/162386458-9b71b001-5f65-49b8-a764-77641acc6a9a.jpg)
+
 
 
 
