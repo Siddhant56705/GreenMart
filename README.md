@@ -69,6 +69,10 @@
 //Spinach
 ![Spinach](https://user-images.githubusercontent.com/91477169/162384410-fb96353a-ebb5-4ea2-9f7e-35abaabbea93.jpg)
 
+//StrawBerry
+![StrawBerry](https://user-images.githubusercontent.com/91477169/162384580-8f3b77c4-1ba2-4d04-88eb-5c8c8f91238b.jpg)
+
+
 
 
 
