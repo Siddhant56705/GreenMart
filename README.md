@@ -32,6 +32,8 @@
 ![Corn](https://user-images.githubusercontent.com/91477169/162382621-69557be9-387b-4b74-b50a-23d691f64b0d.jpg)
 
 
+//Curd
+![Curd](https://user-images.githubusercontent.com/91477169/162382720-f22711ff-a163-4886-8014-7269690d2702.jpg)
 
 
 
