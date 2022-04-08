@@ -1,5 +1,8 @@
 # GreenMart
 
+//GreenMart Home
+![istockphoto-1311051864-170667a](https://user-images.githubusercontent.com/91477169/162383350-03647b7e-1107-4f7f-b9bd-8b0296c6dead.jpg)
+
 //mango
 ![Mango](https://user-images.githubusercontent.com/91477169/162381384-37b6a976-a580-496d-a0d3-856ceb7d0878.jpg)
 
