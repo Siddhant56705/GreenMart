@@ -66,6 +66,9 @@
 //PineApple
 ![PineApple](https://user-images.githubusercontent.com/91477169/162384294-a79de5ed-e2b7-43e7-b6e8-484d33405447.jpg)
 
+//Spinach
+![Spinach](https://user-images.githubusercontent.com/91477169/162384410-fb96353a-ebb5-4ea2-9f7e-35abaabbea93.jpg)
+
 
 
 
