@@ -1,7 +1,7 @@
 # GreenMart
 
 //mango
-![download](https://user-images.githubusercontent.com/91790045/162378809-996e088b-9302-4e8e-8392-da66aab361c7.jpeg)
+![Mango](https://user-images.githubusercontent.com/91477169/162381384-37b6a976-a580-496d-a0d3-856ceb7d0878.jpg)
 
 //kiwi
 ![Kiwi](https://user-images.githubusercontent.com/91477169/162380608-04fdeef5-39cf-4a7c-b2d7-8367a440af9e.jpg)
