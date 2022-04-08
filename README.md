@@ -63,6 +63,9 @@
 //Panner
 ![Panner](https://user-images.githubusercontent.com/91477169/162384164-cdff212d-2e28-4451-bf7c-8fa754162e27.jpg)
 
+//PineApple
+![PineApple](https://user-images.githubusercontent.com/91477169/162384294-a79de5ed-e2b7-43e7-b6e8-484d33405447.jpg)
+
 
 
 
