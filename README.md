@@ -22,3 +22,6 @@
 //Capsicum
 ![Capsicum](https://user-images.githubusercontent.com/91477169/162382124-d63cbcb5-08fe-46f5-8830-aa0e5a62ff3e.jpg)
 
+//Cauliflower
+![Cauliflower](https://user-images.githubusercontent.com/91477169/162382281-eec343fd-66a1-4207-ba86-d4491596b2e5.jpg)
+
